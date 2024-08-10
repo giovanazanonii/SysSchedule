@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/30 19:36:41.000.615,=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/30 19:39:00.000.873,C:\Users\giova\OneDrive\Documentos\SysSchedule\fSplash.fmx=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024/06/30 19:39:00.000.873,C:\Users\giova\OneDrive\Documentos\SysSchedule\fSplash.pas=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/30 19:46:06.000.221,C:\Users\giova\OneDrive\Documentos\SysSchedule\Project1.dproj=C:\Users\giova\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/06/30 19:46:21.000.159,=C:\Users\giova\OneDrive\Documentos\SysSchedule\Unit1.pas</Transaction>
+    <Transaction>2024/06/30 19:46:49.000.230,C:\Users\giova\OneDrive\Documentos\SysSchedule\Unit1.fmx=C:\Users\giova\OneDrive\Documentos\SysSchedule\fLogin.fmx</Transaction>
+    <Transaction>2024/06/30 19:46:49.000.230,C:\Users\giova\OneDrive\Documentos\SysSchedule\Unit1.pas=C:\Users\giova\OneDrive\Documentos\SysSchedule\fLogin.pas</Transaction>
+    <Transaction>2024/06/30 20:07:52.000.697,C:\Users\giova\OneDrive\Documentos\SysSchedule\Project1.dproj=C:\Users\giova\OneDrive\Documentos\SysSchedule\SysSchedule.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

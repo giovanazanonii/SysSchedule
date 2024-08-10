@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  fSplash in 'fSplash.pas' {uSplash};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TuSplash, uSplash);
+  Application.Run;
+end.
